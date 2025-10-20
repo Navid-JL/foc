@@ -47,6 +47,9 @@ This module covers how some security aspects can be analyzed and modeled. Specif
 
 This module deals with major attack entry points and security implications of modern software supply chains. In more detail, it covers threats against source code and dependencies, *-squatting techniques, and Software Bill of Materials (SBOMs). The module also presents some mitigation techniques, i.e., debloating and reproducible builds. The related material containes some reference papers, SBOMs in .json/Cyclone-DX format, and small examples to be used against Grype and diffoscope. A simple "SquatScanner" tool is also provided, which can be used as a challenge and to understand how to build your own testing tools. 
 
+## Seminar - Vulnerability Discovery: SAST and Fuzz Testing
+
+This seminar showcases basic information on sofware testing, mainly static analysis security testing and fuzz testing. The related material contains slides of the seminar as well as some referene literature. The files used in the seminar (e.g., AFL++ configuration and the tested xpdf packages) are already present in **Module 2 - Security Analysis and Modeling**. Even if the "hands on" labs done during the seminar are not strictly part of the course, the basic concepts should be known as they complete the knowledge needed to spot possible security issues and exploitable behaviors of software. 
 
 ## Acknowledgments 
 

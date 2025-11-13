@@ -55,7 +55,7 @@ This module discusses major aspects of malware. In more detail, it showcases maj
 
 ## Module 5 - Network Security
 
-This module reviews the major aspect of network security. Specifically, it covers spoofing attacks, DoS/DDoS templates, and packet filters (firewalls). The module also introduces vulnerability/network scanning and related strategies, as well as prime countermeasures to reduce the network attack surface such as, hardening, network segmentation and honeypots. The related material containes some reference papers and a very basic port scanning tool written in Python. 
+This module reviews the major aspect of network security. Specifically, it covers spoofing attacks, DoS/DDoS templates, and packet filters (firewalls). The module also introduces vulnerability/network scanning and related strategies, as well as prime countermeasures to reduce the network attack surface such as, hardening, network segmentation and honeypots. The related material containes some reference papers and a very basic port scanner written in Python. 
 
 
 ## Seminar - Vulnerability Discovery: SAST and Fuzz Testing

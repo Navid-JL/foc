@@ -57,6 +57,11 @@ This module discusses major aspects of malware. In more detail, it showcases maj
 
 This module reviews the major aspect of network security. Specifically, it covers spoofing attacks, DoS/DDoS templates, and packet filters (firewalls). The module also introduces vulnerability/network scanning and related strategies, as well as prime countermeasures to reduce the network attack surface such as, hardening, network segmentation and honeypots. The related material containes some reference papers and a very basic port scanner written in Python. 
 
+## Module 6 - Information Hiding
+
+This module introduces advanced and emerging offensive schemes based on information hiding. In more detail, it discusses network and local covert channels, with many examples related to real attack campaigns. The module also presents the concept of stegomalware, i.e., malicious software that takes advantage of steganography to remain undetected. Throughout the module,  indications on the double-edged nature of information hiding will be provided as well as the main challenges to be faced for creating countermeasures. The related matieral contains introductive papers on the topic and some various demonstrating covert communications. 
+
+**DISCLAIMER:** concepts belonging to this module are at the intersection between academia and research. The idea here is to present advanced techniques that require some effort to be faced and to underline that *ambiguities* and *imperfect isolation* may be exploited by an attacker. 
 
 ## Seminar - Vulnerability Discovery: SAST and Fuzz Testing
 

@@ -74,6 +74,7 @@ This folder contains the .pdf version of the assignments needed to skip part of 
 Covered topics are: 
 
 - Analysis of Sunburst 
+- The WannaCry Ransomware
 - Software Supply Chain attacks and SolarWinds
 - ARP Spoofing and Man-in-the-Middle Attacks
 - Security Risks of AI-assisted Software Development

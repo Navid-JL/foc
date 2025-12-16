@@ -73,6 +73,7 @@ This folder contains the .pdf version of the assignments needed to skip part of 
 
 Covered topics are: 
 
+- Static Analysis and Software Supply Chain Security
 - Analysis of Sunburst 
 - Technical and Economical Analysis of Carbanak
 - The WannaCry Ransomware
